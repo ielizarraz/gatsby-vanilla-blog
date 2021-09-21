@@ -1,0 +1,35 @@
+.posts {
+    list-style-type: none;
+    margin: 0;
+
+}
+
+.post {
+    margin:1rem 0;
+    a{
+        background: #f4f4f4;
+        color: black;
+        display: -webkit-inline-flex;
+        padding: 1rem;
+        text-decoration: none;
+     }
+     a:hover {
+         background: #e4e4e4;
+         background-image: url('../blogposts/gatsby/stars.jpg');
+     }
+     h2 {
+         margin-bottom: 0;
+
+     }
+
+     p {
+         color: gray;
+         font-size: .8rem;
+         font-style: italic;
+     }
+}
+
+.blogtemplate {
+
+    background-image: url('../templates/backgroundblog.jpg');
+}
