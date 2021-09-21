@@ -8,7 +8,7 @@ module.exports = {
   /* Your site config here */
 
   siteMetadata: {
-    title: 'Full-Stack Baloney',
+    title: 'Gatsby Static',
     author: 'Isaac Elizarraz'
  
    
