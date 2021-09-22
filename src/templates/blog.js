@@ -86,9 +86,9 @@ const Blog = ({data}) => {
           "embedded-asset-block": (node) => {
             return (
               <>
-              <pre>
+{/*               <pre>
                 <code>{JSON.stringify(node, null, 2)}</code>
-              </pre>
+              </pre> */}
               <img
                 src={node.data.target.fixed.src}
                 alt={node.data.target.title}
