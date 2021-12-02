@@ -8,4 +8,4 @@
   Gatsby Blog
 </h1>
 
-
+This blog was completed using Gatsby, NodeJS, and GraphQL. The CMS used is Contentful. 
